@@ -1,0 +1,60 @@
+﻿  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(1749,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>::_Mypair': class 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(1749): message : see declaration of 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>' being compiled
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(87,18): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(97,20): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(124,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(124,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(142,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(142,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(171,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(196,8): warning C4101: 'i': unreferenced local variable
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(249,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(250,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(257,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(258,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(300,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(303,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(310,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(312,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(314,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(316,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(322,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(323,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(324,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(325,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(338,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(340,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(342,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(344,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(348,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(349,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(350,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(351,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(373,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(427,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\Pacman.cpp(444,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(1749,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>::_Mypair': class 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(1749): message : see declaration of 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>' being compiled
+  Generating Code...
+  Pacman.vcxproj -> C:\Users\baile\OneDrive - Staffordshire University\Year 1\FOGGS\Pacman\Debug\Pacman.exe
